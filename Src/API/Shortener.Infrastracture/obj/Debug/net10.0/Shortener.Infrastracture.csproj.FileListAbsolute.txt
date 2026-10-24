@@ -1,0 +1,17 @@
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Infrastracture.deps.json
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Infrastracture.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Infrastracture.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Application.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Domain.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Application.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/bin/Debug/net10.0/Shortener.Domain.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.csproj.AssemblyReference.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.AssemblyInfoInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.AssemblyInfo.cs
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.csproj.CoreCompileInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortene.08D4400B.Up2Date
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/refint/Shortener.Infrastracture.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/Shortener.Infrastracture.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Infrastracture/obj/Debug/net10.0/ref/Shortener.Infrastracture.dll

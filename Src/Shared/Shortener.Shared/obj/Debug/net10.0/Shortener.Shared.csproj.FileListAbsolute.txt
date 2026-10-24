@@ -1,0 +1,12 @@
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/bin/Debug/net10.0/Shortener.Shared.deps.json
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/bin/Debug/net10.0/Shortener.Shared.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/bin/Debug/net10.0/Shortener.Shared.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.csproj.AssemblyReference.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.AssemblyInfoInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.AssemblyInfo.cs
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.csproj.CoreCompileInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/refint/Shortener.Shared.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/Shortener.Shared.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/Shared/Shortener.Shared/obj/Debug/net10.0/ref/Shortener.Shared.dll

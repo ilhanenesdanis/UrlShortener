@@ -1,0 +1,15 @@
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/bin/Debug/net10.0/Shortener.Application.deps.json
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/bin/Debug/net10.0/Shortener.Application.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/bin/Debug/net10.0/Shortener.Application.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/bin/Debug/net10.0/Shortener.Domain.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/bin/Debug/net10.0/Shortener.Domain.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.csproj.AssemblyReference.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.AssemblyInfoInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.AssemblyInfo.cs
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.csproj.CoreCompileInputs.cache
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortene.AC216555.Up2Date
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/refint/Shortener.Application.dll
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/Shortener.Application.pdb
+/Users/ilhanenesdanis/Desktop/DotnetProjects/UrlShortener/Src/API/Shortener.Application/obj/Debug/net10.0/ref/Shortener.Application.dll
