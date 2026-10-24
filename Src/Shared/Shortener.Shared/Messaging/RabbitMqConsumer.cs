@@ -24,7 +24,6 @@ internal sealed class RabbitMqConsumer<TMessage>(
 
         await _channel.ExchangeDeclareAsync(options.Exchange, ExchangeType.Topic, durable: true, cancellationToken: stoppingToken);
 
-        // Nack edilen mesajlar default exchange ("") üzerinden error kuyruğuna yönlendirilir.
         await _channel.QueueDeclareAsync(
             options.Queue,
             durable: true,

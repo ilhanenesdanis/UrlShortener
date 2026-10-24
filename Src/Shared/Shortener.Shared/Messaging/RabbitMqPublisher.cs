@@ -5,7 +5,6 @@ namespace Shortener.Shared.Messaging;
 
 internal sealed class RabbitMqPublisher(IConnection connection) : IMessagePublisher, IAsyncDisposable
 {
-    // Aynı channel üzerinden eş zamanlı publish yapılmamalı, bu yüzden tek channel'ı kilitle koruyoruz.
     private readonly SemaphoreSlim _lock = new(1, 1);
     private readonly HashSet<string> _declaredExchanges = [];
     private IChannel? _channel;
@@ -33,7 +32,6 @@ internal sealed class RabbitMqPublisher(IConnection connection) : IMessagePublis
                 _declaredExchanges.Add(exchange);
             }
 
-            // Publisher confirms açık olduğu için broker mesajı onaylayana kadar bekler, onaylamazsa exception fırlatır.
             await channel.BasicPublishAsync(exchange, routingKey, mandatory: false, properties, body, cancellationToken);
         }
         finally
@@ -49,7 +47,6 @@ internal sealed class RabbitMqPublisher(IConnection connection) : IMessagePublis
             return _channel;
         }
 
-        // Channel seviyesindeki hatalarda channel kapanır ve otomatik kurtarılmaz, yenisini açıyoruz.
         if (_channel is not null)
         {
             await _channel.DisposeAsync();
